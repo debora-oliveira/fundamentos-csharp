@@ -1,0 +1,15 @@
+C:\dev\TiposMoedas\bin\Debug\net6.0\TiposMoedas.exe
+C:\dev\TiposMoedas\bin\Debug\net6.0\TiposMoedas.deps.json
+C:\dev\TiposMoedas\bin\Debug\net6.0\TiposMoedas.runtimeconfig.json
+C:\dev\TiposMoedas\bin\Debug\net6.0\TiposMoedas.dll
+C:\dev\TiposMoedas\bin\Debug\net6.0\ref\TiposMoedas.dll
+C:\dev\TiposMoedas\bin\Debug\net6.0\TiposMoedas.pdb
+C:\dev\TiposMoedas\obj\Debug\net6.0\TiposMoedas.csproj.AssemblyReference.cache
+C:\dev\TiposMoedas\obj\Debug\net6.0\TiposMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TiposMoedas\obj\Debug\net6.0\TiposMoedas.AssemblyInfoInputs.cache
+C:\dev\TiposMoedas\obj\Debug\net6.0\TiposMoedas.AssemblyInfo.cs
+C:\dev\TiposMoedas\obj\Debug\net6.0\TiposMoedas.csproj.CoreCompileInputs.cache
+C:\dev\TiposMoedas\obj\Debug\net6.0\TiposMoedas.dll
+C:\dev\TiposMoedas\obj\Debug\net6.0\ref\TiposMoedas.dll
+C:\dev\TiposMoedas\obj\Debug\net6.0\TiposMoedas.pdb
+C:\dev\TiposMoedas\obj\Debug\net6.0\TiposMoedas.genruntimeconfig.cache
