@@ -1,0 +1,15 @@
+C:\dev\EstudandoStrings\bin\Debug\net6.0\EstudandoStrings.exe
+C:\dev\EstudandoStrings\bin\Debug\net6.0\EstudandoStrings.deps.json
+C:\dev\EstudandoStrings\bin\Debug\net6.0\EstudandoStrings.runtimeconfig.json
+C:\dev\EstudandoStrings\bin\Debug\net6.0\EstudandoStrings.dll
+C:\dev\EstudandoStrings\bin\Debug\net6.0\ref\EstudandoStrings.dll
+C:\dev\EstudandoStrings\bin\Debug\net6.0\EstudandoStrings.pdb
+C:\dev\EstudandoStrings\obj\Debug\net6.0\EstudandoStrings.csproj.AssemblyReference.cache
+C:\dev\EstudandoStrings\obj\Debug\net6.0\EstudandoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EstudandoStrings\obj\Debug\net6.0\EstudandoStrings.AssemblyInfoInputs.cache
+C:\dev\EstudandoStrings\obj\Debug\net6.0\EstudandoStrings.AssemblyInfo.cs
+C:\dev\EstudandoStrings\obj\Debug\net6.0\EstudandoStrings.csproj.CoreCompileInputs.cache
+C:\dev\EstudandoStrings\obj\Debug\net6.0\EstudandoStrings.dll
+C:\dev\EstudandoStrings\obj\Debug\net6.0\ref\EstudandoStrings.dll
+C:\dev\EstudandoStrings\obj\Debug\net6.0\EstudandoStrings.pdb
+C:\dev\EstudandoStrings\obj\Debug\net6.0\EstudandoStrings.genruntimeconfig.cache
