@@ -1,0 +1,15 @@
+C:\dev\EstudandoDatas\bin\Debug\net6.0\EstudandoDatas.exe
+C:\dev\EstudandoDatas\bin\Debug\net6.0\EstudandoDatas.deps.json
+C:\dev\EstudandoDatas\bin\Debug\net6.0\EstudandoDatas.runtimeconfig.json
+C:\dev\EstudandoDatas\bin\Debug\net6.0\EstudandoDatas.dll
+C:\dev\EstudandoDatas\bin\Debug\net6.0\ref\EstudandoDatas.dll
+C:\dev\EstudandoDatas\bin\Debug\net6.0\EstudandoDatas.pdb
+C:\dev\EstudandoDatas\obj\Debug\net6.0\EstudandoDatas.csproj.AssemblyReference.cache
+C:\dev\EstudandoDatas\obj\Debug\net6.0\EstudandoDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EstudandoDatas\obj\Debug\net6.0\EstudandoDatas.AssemblyInfoInputs.cache
+C:\dev\EstudandoDatas\obj\Debug\net6.0\EstudandoDatas.AssemblyInfo.cs
+C:\dev\EstudandoDatas\obj\Debug\net6.0\EstudandoDatas.csproj.CoreCompileInputs.cache
+C:\dev\EstudandoDatas\obj\Debug\net6.0\EstudandoDatas.dll
+C:\dev\EstudandoDatas\obj\Debug\net6.0\ref\EstudandoDatas.dll
+C:\dev\EstudandoDatas\obj\Debug\net6.0\EstudandoDatas.pdb
+C:\dev\EstudandoDatas\obj\Debug\net6.0\EstudandoDatas.genruntimeconfig.cache
